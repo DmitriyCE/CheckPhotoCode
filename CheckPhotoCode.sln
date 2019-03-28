@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckPhotoCode", "CheckPhotoCode\CheckPhotoCode.csproj", "{89F55E89-2FD1-40BF-800D-4CCC14D17089}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89F55E89-2FD1-40BF-800D-4CCC14D17089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F55E89-2FD1-40BF-800D-4CCC14D17089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F55E89-2FD1-40BF-800D-4CCC14D17089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F55E89-2FD1-40BF-800D-4CCC14D17089}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8635C05F-D609-4FAF-A3B2-C6B948C5AFED}
+	EndGlobalSection
+EndGlobal
