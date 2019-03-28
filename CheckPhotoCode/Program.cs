@@ -17,16 +17,13 @@ namespace CheckPhotoCode
                 if (docs.Contains("фото"))
                 {
                     Console.WriteLine("Фотография сделана более 3-х месяцев назад?(да/нет)");
-                    String YN = Console.ReadLine();
-                    if (YN == "нет")
+                    if (Console.ReadLine() == "нет")
                     {
                         Console.WriteLine("Использовалась ли эта фотография на паспорт?(да/нет)");
-                        String YN1 = Console.ReadLine();
-                        if (YN1 == "нет")
+                        if (Console.ReadLine() == "нет")
                         {
                             Console.WriteLine("Фотография вклеена?(да/нет)");
-                            String YN2 = Console.ReadLine();
-                            if (YN2 == "нет")
+                            if (Console.ReadLine() == "нет")
                             {
                                 Console.WriteLine("Вклейте фотографию");
                                 Console.ReadLine();
