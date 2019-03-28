@@ -44,6 +44,7 @@ namespace CheckPhotoCode
                     {
                         Console.WriteLine("Фотография должна быть не старше 3-х месяцев.Пройдите в фотокомнату");
                         Console.ReadLine();
+                        //kjghkuidhfgdfglko;dfkig
                     }
                 }
                 else
