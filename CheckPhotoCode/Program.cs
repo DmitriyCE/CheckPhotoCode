@@ -50,7 +50,6 @@ namespace CheckPhotoCode
                 {
                     Console.WriteLine("У вас нет фотографии.Пройдите в фотокомнату");
                     Console.ReadLine();
-                    //dkjhdkjfghdfsgh
                 }
             }
         }
